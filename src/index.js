@@ -5,11 +5,13 @@ import 'bootstrap/dist/css/bootstrap.css'
 import './global.css'
 
 import Badge from './components/Badge'
+import BadgeNew from './pages/BadgeNew'
+
 
 const container = document.getElementById('app')
 
-ReactDOM.render(
-    <Badge 
+/*ReactDOM.render(
+    <BadgeNew 
         name="Ingram" 
         model="AV-98"
         avatar="https://patlabor-api.herokuapp.com/images/labors/1.jpg"
@@ -17,4 +19,8 @@ ReactDOM.render(
         manufacturer="Shinohara Heavy Industries, Hachioji Factory" 
     />, 
     container)
+*/
 
+ReactDOM.render(
+    <BadgeNew />, 
+    container)
