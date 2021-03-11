@@ -12,7 +12,7 @@ ReactDOM.render(
     <Badge 
         name="Ingram" 
         model="AV-98"
-        avatar="https:/patlabor-api.herokuapp.com/images/labors/1.jpg"
+        avatar="https://patlabor-api.herokuapp.com/images/labors/1.jpg"
         unit_type="Police Patrol Labor" 
         manufacturer="Shinohara Heavy Industries, Hachioji Factory" 
     />, 
