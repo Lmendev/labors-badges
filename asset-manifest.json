@@ -1,16 +1,18 @@
 {
-  "main.css": "/labors-badges/static/css/main.d6a2055c.chunk.css",
-  "main.js": "/labors-badges/static/js/main.581ec090.chunk.js",
-  "main.js.map": "/labors-badges/static/js/main.581ec090.chunk.js.map",
+  "main.css": "/labors-badges/static/css/main.c8ffda19.chunk.css",
+  "main.js": "/labors-badges/static/js/main.11dbcb0d.chunk.js",
+  "main.js.map": "/labors-badges/static/js/main.11dbcb0d.chunk.js.map",
   "runtime~main.js": "/labors-badges/static/js/runtime~main.579adeda.js",
   "runtime~main.js.map": "/labors-badges/static/js/runtime~main.579adeda.js.map",
   "static/css/2.ab182b0d.chunk.css": "/labors-badges/static/css/2.ab182b0d.chunk.css",
-  "static/js/2.9dab7462.chunk.js": "/labors-badges/static/js/2.9dab7462.chunk.js",
-  "static/js/2.9dab7462.chunk.js.map": "/labors-badges/static/js/2.9dab7462.chunk.js.map",
+  "static/js/2.aeddb114.chunk.js": "/labors-badges/static/js/2.aeddb114.chunk.js",
+  "static/js/2.aeddb114.chunk.js.map": "/labors-badges/static/js/2.aeddb114.chunk.js.map",
   "index.html": "/labors-badges/index.html",
-  "precache-manifest.2692f1d937c3258dcc7a3cdf23dec755.js": "/labors-badges/precache-manifest.2692f1d937c3258dcc7a3cdf23dec755.js",
+  "precache-manifest.35246b4bbd87cfc3384a08b97021dd1e.js": "/labors-badges/precache-manifest.35246b4bbd87cfc3384a08b97021dd1e.js",
   "service-worker.js": "/labors-badges/service-worker.js",
   "static/css/2.ab182b0d.chunk.css.map": "/labors-badges/static/css/2.ab182b0d.chunk.css.map",
-  "static/css/main.d6a2055c.chunk.css.map": "/labors-badges/static/css/main.d6a2055c.chunk.css.map",
-  "static/media/badge-header.svg": "/labors-badges/static/media/badge-header.fe5b3473.svg"
+  "static/css/main.c8ffda19.chunk.css.map": "/labors-badges/static/css/main.c8ffda19.chunk.css.map",
+  "static/media/badge-header.svg": "/labors-badges/static/media/badge-header.fe5b3473.svg",
+  "static/media/logo.jpg": "/labors-badges/static/media/logo.05819ec2.jpg",
+  "static/media/BadgeNew.css": "/labors-badges/static/media/stars.1d17360a.svg"
 }
