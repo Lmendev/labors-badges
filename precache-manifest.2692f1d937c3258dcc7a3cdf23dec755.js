@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "388e57cf96c81706606a",
+    "revision": "581ec090e13e8e67abb2",
     "url": "/labors-badges/static/css/main.d6a2055c.chunk.css"
   },
   {
-    "revision": "388e57cf96c81706606a",
-    "url": "/labors-badges/static/js/main.388e57cf.chunk.js"
+    "revision": "581ec090e13e8e67abb2",
+    "url": "/labors-badges/static/js/main.581ec090.chunk.js"
   },
   {
     "revision": "579adeda8f2c6463d9c3",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/labors-badges/static/media/badge-header.fe5b3473.svg"
   },
   {
-    "revision": "1b7117bdf31c8b69056dcfdf7d6911ec",
+    "revision": "8c9d6435bc3324c8df5f042a9fd21c76",
     "url": "/labors-badges/index.html"
   }
 ];
