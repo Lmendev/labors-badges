@@ -1,6 +1,7 @@
 {
   "name": "labors-badges",
   "version": "0.1.0",
+  "homepage": "http://lmendev.github.io/labors-badges",
   "private": true,
   "scripts": {
     "start": "npm-run-all -p client server",
@@ -9,7 +10,9 @@
     "seed": "node server/seed.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
@@ -19,6 +22,7 @@
   },
   "devDependencies": {
     "faker": "^4.1.0",
+    "gh-pages": "^3.1.0",
     "json-server": "^0.14.2",
     "npm-run-all": "^4.1.5"
   },
